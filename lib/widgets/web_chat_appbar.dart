@@ -4,6 +4,7 @@ import 'package:whatsapp_flutter_firebase/colors.dart';
 class ChatAppBar extends StatelessWidget {
   const ChatAppBar({Key? key}) : super(key: key);
 
+
   @override
   Widget build(BuildContext context) {
     return Container(
