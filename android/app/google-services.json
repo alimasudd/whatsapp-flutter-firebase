@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418831035080",
+    "project_id": "whatsapp-backend-3466f",
+    "storage_bucket": "whatsapp-backend-3466f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418831035080:android:ec35867a956a45599913fd",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvB3kVQ1ReA2OlbdRZfLpTz4O4-nzZh2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
