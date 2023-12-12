@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_flutter_firebase/colors.dart';
+import 'package:whatsapp_flutter_firebase/common/utils/colors.dart';
 import 'package:whatsapp_flutter_firebase/info.dart';
 import 'package:whatsapp_flutter_firebase/widgets/chat_list.dart';
 import 'package:whatsapp_flutter_firebase/widgets/web_chat_appbar.dart';
