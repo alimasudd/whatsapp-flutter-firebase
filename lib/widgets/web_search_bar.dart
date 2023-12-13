@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_flutter_firebase/colors.dart';
+import 'package:whatsapp_flutter_firebase/common/utils/colors.dart';
 
 class WebSearchBar extends StatelessWidget {
   const WebSearchBar({Key? key}) : super(key: key);
