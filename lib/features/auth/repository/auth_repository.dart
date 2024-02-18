@@ -1,5 +1,3 @@
-// ignore_for_file: use_build_context_synchronously
-
 import 'dart:io';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
@@ -11,7 +9,7 @@ import 'package:whatsapp_flutter_firebase/common/utils/utils.dart';
 import 'package:whatsapp_flutter_firebase/features/auth/screens/otp_screen.dart';
 import 'package:whatsapp_flutter_firebase/features/auth/screens/user_information_screen.dart';
 import 'package:whatsapp_flutter_firebase/models/user_model.dart';
-import 'package:whatsapp_flutter_firebase/screens/mobile_layout_screen.dart';
+import 'package:whatsapp_flutter_firebase/mobile_layout_screen.dart';
 
 final authRepositoryProvider = Provider(
   (ref) => AuthRepository(
